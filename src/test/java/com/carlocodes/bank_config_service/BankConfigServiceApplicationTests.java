@@ -1,4 +1,4 @@
-package com.carlocodes.bankconfigservice;
+package com.carlocodes.bank_config_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
